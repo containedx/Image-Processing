@@ -1,5 +1,6 @@
 # Image-Processing-
-University Project - implementation of several Image Transformations 
+University Project - implementation of several Image Transformations.
+CLR application in .NET framework. Using System::Drawing namespace. 
 
 ### Standard Deviation Filtration
 new value of every pixel is standard deviation of its neibourhood (size of mask)
